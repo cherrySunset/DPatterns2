@@ -1,0 +1,39 @@
+[
+  {
+    "type": "development",
+    "name": "Implement login",
+    "strategy": "Agile"
+  },
+  {
+    "type": "testing",
+    "name": "Set up database tests",
+    "strategy": "Waterfall"
+  },
+  {
+    "type": "design",
+    "name": "Design homepage",
+    "strategy": "Spiral"
+  },
+  {
+    "type": "project",
+    "name": "New Website",
+    "strategy": "RUP",
+    "subtasks": [
+      {
+        "type": "development",
+        "name": "Implement login",
+        "strategy": "Agile"
+      },
+      {
+        "type": "testing",
+        "name": "Set up database tests",
+        "strategy": "Waterfall"
+      },
+      {
+        "type": "design",
+        "name": "Design homepage",
+        "strategy": "Spiral"
+      }
+    ]
+  }
+]

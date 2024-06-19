@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d9f363d-359c-4b20-8634-d18a554d7cfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/AgileStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/DesignTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/DevelopmentTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/RupStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/SpiralStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/TaskFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/TaskStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/TestingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composite_strategy/WaterfallStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/DeviceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/DeviceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/DoorLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/DoorLockDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/HomeDeviceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/HomeDoorLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/HomeLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/HomeThermostat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/LightDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/SmartHomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/State/DeviceState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/State/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/State/OffState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/State/OnState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/State/UnlockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/Thermostat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/smarthome/ThermostatDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/tasks.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2i4VySuH4MZChRUs1VyL8btKfWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.bridge_visitor.Main.executor": "Run",
+    "Application.composite_observer.Main.executor": "Run",
+    "Application.composite_strategy.Main.executor": "Run",
+    "Application.facade_state.Main.executor": "Run",
+    "Application.flyweight_chain.Main.executor": "Run",
+    "Application.proxy_command.Main.executor": "Run",
+    "Application.smarthome.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/DPPart2/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\DPPart2\src\main\resources\data" />
+      <recent name="C:\Users\user\IdeaProjects\DPPart2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.smarthome.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="booking.Main" />
+      <module name="DPPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="composite_observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite_observer.Main" />
+      <module name="DPPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composite_observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="composite_strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite_strategy.Main" />
+      <module name="DPPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composite_strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proxy_command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy_command.Main" />
+      <module name="DPPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy_command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="smarthome.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="smarthome.Main" />
+      <module name="DPPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smarthome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.smarthome.Main" />
+        <item itemvalue="Application.composite_strategy.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.proxy_command.Main" />
+        <item itemvalue="Application.composite_observer.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-51586f01" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d9f363d-359c-4b20-8634-d18a554d7cfd" name="Changes" comment="" />
+      <created>1718750093912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718750093912</updated>
+      <workItem from="1718750095165" duration="16780000" />
+      <workItem from="1718788095439" duration="2029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
